@@ -18,7 +18,7 @@ By the end of the week, you should have a working procedural terrain setup, a ba
 https://www.youtube.com/watch?v=d4k9-KF6GkI
 
 #### Beginner Geometry Nodes Introduction
-
+https://youtu.be/JU70u6cJZqI?si=1POvmfR0mc86EvFh
 
 #### Perlin Noise Explanation
 https://youtu.be/MMj3WU4gORI?si=_r8sku2YObuWdfpt
