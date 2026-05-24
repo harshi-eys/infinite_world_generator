@@ -84,8 +84,9 @@ Each biome should have:
 
 #### Additional Reference
 - Better mountain generation playlist for Geometry Nodes  
+  https://youtu.be/FOMmvspCcQk?si=Gj9DcSwtfULqvsjT
+- Procedural nodes by default cube -
   https://youtube.com/playlist?list=PLFaEpHfMsQ2uvtFjBDGwFlTm_QrnOzslc&si=x87nhDPfXCG5O75p
-
 ### Deliverable
 By the end of Week 2, you should have a terrain setup that:
 - Produces believable height variation
